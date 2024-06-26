@@ -1,0 +1,6 @@
+@DatabasePostgresSQLEFCore_HostAddress = http://localhost:5296
+
+GET {{DatabasePostgresSQLEFCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
